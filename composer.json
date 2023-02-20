@@ -1,0 +1,21 @@
+{
+    "name": "sukuangyun/payment",
+    "description": "共享仓超支付",
+    "autoload": {
+        "psr-4": {
+            "Sukuangyun\\Payment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "苏狂云",
+            "email": "sudongbiao@vip.qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "guzzlehttp/guzzle": "^7.5",
+        "ext-openssl": "*",
+      "ext-json": "*"
+    }
+}
