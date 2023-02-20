@@ -1,6 +1,6 @@
 {
   "name": "sukuangyun/payment",
-  "description": "共享仓超支付",
+  "description": "共享仓超支付请求封装",
   "autoload": {
     "psr-4": {
       "Sukuangyun\\Payment\\": "src/"
