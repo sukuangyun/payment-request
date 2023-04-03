@@ -1,6 +1,6 @@
 <?php
 
-namespace Sukuangyun\Payment\Exception;
+namespace Sukuangyun\Payment\Exceptions;
 
 use Exception;
 use Throwable;
